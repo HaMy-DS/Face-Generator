@@ -1,6 +1,6 @@
 # Face Generator
 
-In this project, I used some DCGAN modes for Face Generator using CelebFaces Attributes (CelebA) Dataset https://www.kaggle.com/datasets/jessicali9530/celeba-dataset. 
+In this project, I used DCGAN mode for Face Generator using CelebFaces Attributes (CelebA) Dataset https://www.kaggle.com/datasets/jessicali9530/celeba-dataset. 
 
 A DCGAN consists of two neural networks:
 
