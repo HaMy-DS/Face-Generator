@@ -1,8 +1,8 @@
 # Face Generator
 
-In this project, I used some GAN model for Face Generator using CelebFaces Attributes (CelebA) Dataset https://www.kaggle.com/datasets/jessicali9530/celeba-dataset. 
+In this project, I used some DCGAN modes for Face Generator using CelebFaces Attributes (CelebA) Dataset https://www.kaggle.com/datasets/jessicali9530/celeba-dataset. 
 
-A GAN consists of two neural networks:
+A DCGAN consists of two neural networks:
 
 **Generator:** This network takes a random noise vector as input and generates images that resemble the real training data. Its goal is to "fool" the discriminator into thinking its fake images are real.
 
